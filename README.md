@@ -1,2 +1,2 @@
 # Vision_Project
-project created in java
+Project created in Python/Java: Profession prediction based on the chosen skills of the user.
